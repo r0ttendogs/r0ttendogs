@@ -1,12 +1,6 @@
 # r0ttendogs
 
-Unleashed in the digital void. Just raw code, no noise.
-
----
-
-### [ STATUS ]
-* **Mission:** Open source development & privacy architecture.
-* **Presence:** No socials, no tracking. Traces lead nowhere.
+**"Privacy is not a crime; it's the final frontier of freedom."**
 
 ---
 
