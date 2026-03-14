@@ -1,16 +1,17 @@
-## Hi there 👋
+# r0ttendogs
 
-<!--
-**r0ttendogs/r0ttendogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unleashed in the digital void. Just raw code, no noise.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [ STATUS ]
+* **Mission:** Open source development & privacy architecture.
+* **Presence:** No socials, no tracking. Traces lead nowhere.
+
+---
+
+### [ CONNECT ]
+**SimpleX:** `[Link/ID]`
+
+---
+`"The system's gonna rot."`
